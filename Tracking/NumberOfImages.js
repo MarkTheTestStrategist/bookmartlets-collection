@@ -1,0 +1,1 @@
+javascript: alert(("Number of Images = ") + (document.images.length));

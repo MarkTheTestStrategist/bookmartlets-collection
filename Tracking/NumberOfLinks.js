@@ -1,0 +1,1 @@
+javascript: alert(("Number of links = ") + (document.links.length));
