@@ -7,9 +7,12 @@ This is a collection of small scripts that are added as bookmartlets in your web
 A popup window will be displayed asking for the first value and then the second respectively. 
 - [Compare two values](/comparison/CompareTwoValues.js)
 
+### Interaction
+With text selected on a webpage, you can click this bookmarklet & it will change all of the text to lowercase.
+- [Convert to lowercase](/RandomDataValues/ConvertTextToLowerCase.js)
+
 ### Random Data Values
 These use a popup window to display the values that have been automatically copied to the clipboard.
-- [Convert to lowercase](/RandomDataValues/ConvertTextToLowerCase.js)
 - [Fill A Form](/RandomDataValues/FillAForm.js)
 - [Random Email](/RandomDataValues/RandomEmail.js)
 - [Random French Mobile Number](/RandomDataValues/RandomFrenchMobileNumber.js)
